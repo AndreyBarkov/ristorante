@@ -1,0 +1,14 @@
+.features {
+    padding-left:10%;
+    padding-right:10%;
+}
+.feature-row{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-bottom: 1px solid rgba(75,75,75,.3)
+}
+.feature-image{
+    font-size:1.5em;
+    font-weight:bold;
+    padding: 2% 6% 0% 6%
+}
