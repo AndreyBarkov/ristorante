@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Demo restaurant home page.
+=======
+##Demo restaurant home page.
+>>>>>>> c459b9ddfdec296626846d32cb7d45d0176b17bc
 
 ## Development server
 
