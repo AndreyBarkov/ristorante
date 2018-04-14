@@ -1,4 +1,4 @@
-A Demo restaurant home page.
+## Demo restaurant home page.
 
 ## Development server
 
