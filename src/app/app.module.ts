@@ -12,6 +12,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { FooterComponent } from './components/footer/footer.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { MenuServiceService } from './services/menu-service.service';
+import { MenuItemComponent } from './components/menu-item/menu-item.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { MenuServiceService } from './services/menu-service.service';
     HeaderComponent,
     FeaturesComponent,
     FooterComponent,
-    MenuComponent
+    MenuComponent,
+    MenuItemComponent
   ],
   imports: [
     BrowserModule,

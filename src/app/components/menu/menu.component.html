@@ -1,19 +1,7 @@
 <div class="menu">
   <h3>Our Menu</h3>
-  <table class="table">
-    <thead class="thead-light">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Vegan Friendly</th>
-        <th scope="col">Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr *ngFor="let dish of menu">
-        <td>{{dish.name}}</td>
-        <td>{{dish.vegan}}</td>
-        <td>{{dish.price | currency}}</td>
-      </tr>
-    </tbody>
-  </table>
+  <div class="menu-container">
+    <app-menu-item *ngFor="let dish of menu" [dish]="dish">
+    </app-menu-item>
+  </div>
 </div>
