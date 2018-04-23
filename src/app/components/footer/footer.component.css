@@ -1,31 +1,36 @@
-footer{
-    background-color:rgb(175,175,175);
-    padding-bottom:50px;
+footer {
+  background-color: rgb(175, 175, 175);
+  padding-bottom: 50px;
 }
-.footer-content{
-    padding-left:10%;
-    padding-right: 10%;
+
+.footer-content {
+  padding-left: 10%;
+  padding-right: 10%;
 }
-.footer-col{
-    padding-top:20px;
-    
+
+.footer-col {
+  padding-top: 20px;
 }
-.links{
-    padding-left:5%;
+
+.links {
+  padding-left: 5%;
 }
-.links ul{
-    list-style: none;
-    padding:0;
+
+.links ul {
+  list-style: none;
+  padding: 0;
 }
-.copyright p{
-    padding-top:20px;
+
+.copyright p {
+  padding-top: 20px;
 }
-.social-links{
-    font-size:30px;
-    text-align:center;
-    padding-top: 5%;
-    
+
+.social-links {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 5%;
 }
-.social-links a{
-    text-decoration: none;
+
+.social-links a {
+  text-decoration: none;
 }
