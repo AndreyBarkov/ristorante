@@ -18,3 +18,9 @@
 .navigation .navbar{
     padding:0;
 }
+.logo{
+    max-height: 40px;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
